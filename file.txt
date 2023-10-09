@@ -1,3 +1,5 @@
 sudo curl -L https://github.com/docker/compose/releases/download/v2.2.3/docker-compose-linux-x86_64 -o /usr/local/bin/docker-compose
 
 git clone https://github.com/nigelpoulton/counter-app.git
+
+bash 
