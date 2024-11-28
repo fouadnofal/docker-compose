@@ -3,3 +3,4 @@ sudo curl -L https://github.com/docker/compose/releases/download/v2.2.3/docker-c
 git clone https://github.com/nigelpoulton/counter-app.git
 #
 bash 
+test2
